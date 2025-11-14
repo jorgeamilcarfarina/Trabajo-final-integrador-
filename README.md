@@ -2,6 +2,7 @@
  
 ##Integrantes del equipo :
 Jorge Fariña
+
 Alejo Sosa
 
 ##Carrera :
