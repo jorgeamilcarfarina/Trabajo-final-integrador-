@@ -1,16 +1,16 @@
 ## Trabajo Intregador Final  
  
-##Integrantes del equipo :
+## Integrantes del equipo :
 Jorge Fariña,
 
 Alejo Sosa
 
-##Carrera :
+## Carrera :
 Tecnicatura Universitaria en Telecomunicaciones
 ## Materia :
 TUT - PROGRAMACIÓN, 2DO CUATRIMESTRE 2025
 
-##Programa Utilizado :
+## Programa Utilizado :
 PseInt 
 
 ## Descripción :
